@@ -1,0 +1,353 @@
+[
+  {
+    "id": "en_01",
+    "text": "Finally pushed the major release to production today! The entire team worked late, but everything went live without a single hitch and the user feedback is already incredible. Feeling so proud and happy with what we built.",
+    "language": "en",
+    "mood": "happy",
+    "topics": ["work_study", "goals"]
+  },
+  {
+    "id": "en_02",
+    "text": "Lazy Sunday morning. Made a fresh pour-over coffee, sat on the balcony watching the birds, and read two chapters of my novel. No alarms, no notifications, just pure stillness and peace.",
+    "language": "en",
+    "mood": "calm",
+    "topics": ["leisure"]
+  },
+  {
+    "id": "en_03",
+    "text": "Deadlines are piling up at work and our lead engineer is out on leave. Every time I finish one ticket, three more get assigned. Plus the quarterly tax filing is due this Friday and my receipts are a mess. My chest feels tight.",
+    "language": "en",
+    "mood": "stressed",
+    "topics": ["work_study", "money"]
+  },
+  {
+    "id": "en_04",
+    "text": "I tried reaching out to my best friend from college today, but the conversation felt like talking to a polite stranger. It hit me that we haven't actually shared anything real in two years. Growing apart feels so hollow and sad.",
+    "language": "en",
+    "mood": "sad",
+    "topics": ["relationships"]
+  },
+  {
+    "id": "en_05",
+    "text": "Executive leadership just announced a company-wide freeze on promotions and salary reviews, citing market headwinds. Meanwhile, the CEO sent a celebratory email yesterday bragging about all-time record quarterly revenue! I am so sick of the hypocrisy.",
+    "language": "en",
+    "mood": "angry",
+    "topics": ["work_study", "money"]
+  },
+  {
+    "id": "en_06",
+    "text": "Did my usual errands today. Went to the grocery store, bought milk, eggs, detergent, and vegetables. Folded laundry in the afternoon and cooked rice and lentils for dinner. Regular, ordinary day.",
+    "language": "en",
+    "mood": "neutral",
+    "topics": ["other"]
+  },
+  {
+    "id": "en_07",
+    "text": "Rain pattering against the window pane. Tea is hot. Soft blankets. Everything is quiet.",
+    "language": "en",
+    "mood": "calm",
+    "topics": ["leisure"]
+  },
+  {
+    "id": "en_08",
+    "text": "Build broke on main again because someone didn't run tests before pushing. Unbelievable.",
+    "language": "en",
+    "mood": "angry",
+    "topics": ["work_study"]
+  },
+  {
+    "id": "en_09",
+    "text": "Another heavy headache. Laying in a dark room with an ice pack, feeling useless while work piles up.",
+    "language": "en",
+    "mood": "sad",
+    "topics": ["health"]
+  },
+  {
+    "id": "en_10",
+    "text": "I don't know where my week went. I woke up at seven, skipped breakfast because the morning sync was moved early, then spent four straight hours fixing CSS layout bugs that only happen on older tablets. While debugging, my mom called asking if I booked train tickets for Diwali, and I realized I completely forgot to check the booking portal. On top of that, the kitchen sink has been dripping water all day and the plumber hasn't returned my three calls. I still have twenty unread Slack messages, my lower back is throbbing from sitting, and I haven't gone for a walk in four days. Feeling completely swamped and behind on every single front.",
+    "language": "en",
+    "mood": "stressed",
+    "topics": ["work_study", "family", "health"]
+  },
+  {
+    "id": "en_11",
+    "text": "Spent a long leisurely afternoon strolling through the botanical conservatory downtown. The smell of cedar bark and damp moss took me right back to childhood summer camps in the Pacific Northwest. Sat on a wooden bench sketch-drawing the palm fronds and let my mind wander about what kind of projects I actually want to dedicate time to over the next five years. It is rare that I give myself permission to just think without having a deliverable or a deadline in mind. I felt thoroughly rested, centered, and grateful for the quiet hours away from the city traffic and glowing monitor screens.",
+    "language": "en",
+    "mood": "calm",
+    "topics": ["leisure", "goals"]
+  },
+  {
+    "id": "en_12",
+    "text": "Oh absolutely brilliant! Spent ninety minutes in a mandatory alignment workshop where ten senior managers took turns rephrasing the exact same bullet point from last week's deck. Groundbreaking synergy. Truly a peak utilization of human intellect.",
+    "language": "en",
+    "mood": "angry",
+    "topics": ["work_study"]
+  },
+  {
+    "id": "en_13",
+    "text": "What a delightful surprise opening my electric bill to find out rates jumped forty percent while my apartment temperature feels like an Arctic research expedition. Nothing warms the soul quite like paying a small fortune to shiver under three layers of fleece.",
+    "language": "en",
+    "mood": "stressed",
+    "topics": ["money"]
+  },
+  {
+    "id": "en_14",
+    "text": "Manager pulled me aside and offered me the technical lead position for the new platform team. Part of me is over the moon and so proud because I worked toward this for two years. But the other part of me has knots in my stomach thinking about having to manage five junior engineers, report to the VP weekly, and carry the blame if system uptime drops. It is an incredible opportunity, but the weight of it is terrifying.",
+    "language": "en",
+    "mood": "stressed",
+    "topics": ["work_study", "goals"]
+  },
+  {
+    "id": "en_15",
+    "text": "Had the final long conversation with Sarah today. We officially decided to end things and start looking for separate apartments next month. I cried a lot on the walk home and my chest aches with sadness, but at the same time there is an eerie, quiet stillness in my head. We spent eight months fighting and trying to force compatibility. The grief is real, but the endless arguing is finally over, and there is a strange peace in accepting reality.",
+    "language": "en",
+    "mood": "sad",
+    "topics": ["relationships"]
+  },
+  {
+    "id": "en_16",
+    "text": "My younger brother borrowed my car without asking again and brought it back with the fuel warning light blinking. We had this exact shouting match three weeks ago. It is not just about the gas money, it is about basic respect and boundaries in this household. I feel so drained having to parent my own sibling.",
+    "language": "en",
+    "mood": "angry",
+    "topics": ["family"]
+  },
+  {
+    "id": "en_17",
+    "text": "Was sitting at the intersection today watching how the traffic lights are timed. Every single morning, northbound drivers get stopped at three green lights in a row because the sensor algorithm prioritizes the empty bus lane. I am not even mad, just deeply fascinated by how poorly designed civic systems can be.",
+    "language": "en",
+    "mood": "neutral",
+    "topics": ["other"]
+  },
+  {
+    "id": "en_18",
+    "text": "Set up the amateur telescope on the roof terrace tonight. Sky was unusually crisp with zero clouds. Managed to locate the Orion nebula and the rings of Saturn. Looking at light that traveled millions of miles puts all our little daily worries into perspective. The universe is ancient and indifferent, and that brings me deep peace.",
+    "language": "en",
+    "mood": "calm",
+    "topics": ["other", "leisure"]
+  },
+  {
+    "id": "en_19",
+    "text": "Drove out to the lake with mom, dad, and the kids today. We packed homemade sandwiches and dad insisted on playing eighties rock cassettes the whole way. Watching the kids splash by the shore while mom laughed at old stories was the happiest I have felt all month.",
+    "language": "en",
+    "mood": "happy",
+    "topics": ["family", "leisure"]
+  },
+  {
+    "id": "en_20",
+    "text": "Went to the dentist expecting a routine cleaning, only to be told I have a cracked molar that needs an urgent root canal and crown. The receptionist handed me an estimate for twelve hundred dollars out of pocket. Between my car insurance renewal and this dental bill, my emergency savings are completely wiped out.",
+    "language": "en",
+    "mood": "stressed",
+    "topics": ["health", "money"]
+  },
+  {
+    "id": "en_21",
+    "text": "Reviewed three pull requests this morning, left standard comments on code style, and wrote unit tests for the authentication refactor. Waiting for QA to deploy to staging tomorrow morning.",
+    "language": "en",
+    "mood": "neutral",
+    "topics": ["work_study"]
+  },
+  {
+    "id": "en_22",
+    "text": "Did twenty minutes of gentle foam rolling and hamstring stretches before shower. Lower back tension melted away and my breath feels deep and unhurried. Getting into fresh sheets now.",
+    "language": "en",
+    "mood": "calm",
+    "topics": ["health"]
+  },
+  {
+    "id": "en_23",
+    "text": "The city road crew came by this morning and cut down the seventy-year-old oak tree at the corner of our street because the roots were damaging the water main. I used to sit in its shade every summer during high school. The corner looks barren and bare now.",
+    "language": "en",
+    "mood": "sad",
+    "topics": ["other"]
+  },
+  {
+    "id": "en_24",
+    "text": "A close teammate at work pulled me aside during lunch and awkwardly asked if I could lend him a thousand dollars until next paycheck because his rent increased. I value our friendship, but mixing money with colleagues feels dangerous. Struggling with how to say no without ruining our daily working relationship.",
+    "language": "en",
+    "mood": "stressed",
+    "topics": ["relationships", "money", "work_study"]
+  },
+  {
+    "id": "en_25",
+    "text": "Found a box of old VHS tapes and Polaroid photos while clearing out the hall closet. It is strange looking at how bulky gadgets used to be and how people used to wait two weeks to see how a photograph turned out. Wondering how our current digital archive will look thirty years from now, or if cloud formats will just disappear.",
+    "language": "en",
+    "mood": "neutral",
+    "topics": ["other", "leisure"]
+  },
+  {
+    "id": "hi_01",
+    "text": "Aaj finally hamara client project live ho gaya! Teen mahine se din raat mehnat chal rahi thi. Client ne call pe bola ki performance benchmark expectations se double hai. Team ke saath pizza order kiya aur celebrate kiya, sab log bohot khush the.",
+    "language": "hinglish",
+    "mood": "happy",
+    "topics": ["work_study", "goals"]
+  },
+  {
+    "id": "hi_02",
+    "text": "Shaam ko terrace pe baithe the thandi hawa chal rahi thi. Ek cup adrak wali chai banayi, phone ko silent pe daal diya aur bas aate jaate badal dekhte rahe. Bohot dino baad itna sukoon aur shanti feel hui.",
+    "language": "hinglish",
+    "mood": "calm",
+    "topics": ["leisure"]
+  },
+  {
+    "id": "hi_03",
+    "text": "Subah 9 baje se continuous client calls chal rahi hain aur koi break nahi mila. Ek bug fix karo to do naye khade ho jate hain. Upar se kal morning 10 baje presentation hai VP ke samne aur deck abhi aadhi bhi ready nahi hui. Sar ghoom raha hai.",
+    "language": "hinglish",
+    "mood": "stressed",
+    "topics": ["work_study"]
+  },
+  {
+    "id": "hi_04",
+    "text": "Nani ki tabiyat kharab ho gayi hai aur hospital mein admit karna pada. Main yahan doosre shahar mein phas gaya hoon office work ki wajah se, chhutti bhi nahi mil rahi. Ghar pe sab log pareshan hain aur main vahan present nahi hoon, bohot helpless aur udaas lag raha hai.",
+    "language": "hinglish",
+    "mood": "sad",
+    "topics": ["family", "health"]
+  },
+  {
+    "id": "hi_05",
+    "text": "Subah auto wale ne meter chalu karne se saaf mana kar diya aur seedha triple charge maangne laga. Jab maine bola traffic police ko bulaunga to badtameezi se baat karne laga. Har roz ka yahi natak ho gaya hai shehar mein, dimag kharab kar dete hain subah subah.",
+    "language": "hinglish",
+    "mood": "angry",
+    "topics": ["other", "money"]
+  },
+  {
+    "id": "hi_06",
+    "text": "Sunday tha to routine kaam niptaye. Laundry kar di, bedsheet change ki aur thoda rashan leke aaye kirana dukan se. Shaam ko khichdi banayi aur thoda YouTube dekh ke so gaye.",
+    "language": "hinglish",
+    "mood": "neutral",
+    "topics": ["other"]
+  },
+  {
+    "id": "hi_07",
+    "text": "Dheere dheere barish ho rahi hai. Balcony mein baith ke garma garam chai pee raha hoon. Koi jaldbaazi nahi.",
+    "language": "hinglish",
+    "mood": "calm",
+    "topics": ["leisure"]
+  },
+  {
+    "id": "hi_08",
+    "text": "Deploy karte hi staging environment crash ho gaya kyunki kisi ne environment variables update hi nahi kiye the. Bakwaas tareeka hai kaam karne ka.",
+    "language": "hinglish",
+    "mood": "angry",
+    "topics": ["work_study"]
+  },
+  {
+    "id": "hi_09",
+    "text": "College roomie ka phone aaya. Next month permanently Canada shift ho raha hai. Sab log dheere dheere door jaa rahe hain.",
+    "language": "hinglish",
+    "mood": "sad",
+    "topics": ["relationships"]
+  },
+  {
+    "id": "hi_10",
+    "text": "Samajh nahi aa raha kaise handle karoon sab kuch. Subah uthte hi dekha geyser se paani leak ho raha tha. Office pahucha to pata chala sprint review aaj hi afternoon mein reschedule ho gaya hai. Lunch karne ka time bhi nahi mila sirf ek packet biscuit khaya. Maa ka phone aaya tha ki gaon mein chacha ji ke bete ki shadi hai aur tatkal ticket book karni hai, portal khola to do second mein saari tickets waitlist chali gayi. Credit card ka bill bhi due hai aur account balance dekh ke darr lag raha hai. Itni saari cheezein ek saath collapse hoti hain to bilkul helpless feel hota hai.",
+    "language": "hinglish",
+    "mood": "stressed",
+    "topics": ["work_study", "family", "money"]
+  },
+  {
+    "id": "hi_11",
+    "text": "Sunday evening ko park mein walk karne gaya tha. Purane gulmohar ke ped ke niche baith ke purani notebook mein thoughts note kiye. Pichle che mahine kitne chaotic the aur kitna bhagna pada tha. Lekin ab lagta hai ki priority set ho gayi hai. Kisi se koi race nahi hai, sab apne time pe hota hai. Dheere dheere hawa chal rahi thi aur mandir ki ghanti sunayi de rahi thi. Man bilkul shant aur halke ho gaya.",
+    "language": "hinglish",
+    "mood": "calm",
+    "topics": ["leisure", "goals"]
+  },
+  {
+    "id": "hi_12",
+    "text": "Bohot khoob! Manager ne pehle sabko Saturday ko extra hours kaam karne pe force kiya, aur phir Monday morning meeting rakhi jismein 'work life harmony and wellness' pe gyan de rahe the. Wah kya baat hai inka hypocrisy level alag hi hai.",
+    "language": "hinglish",
+    "mood": "angry",
+    "topics": ["work_study"]
+  },
+  {
+    "id": "hi_13",
+    "text": "Kya kehna hamare financial planning ke. Mahine ke start mein savings plan banate hain aur 15 tareek aate aate Swiggy khol ke cart dekh kar chupchap dahi chawal khana padta hai. Aise hi chalega to retirement 80 saal mein hoga.",
+    "language": "hinglish",
+    "mood": "stressed",
+    "topics": ["money"]
+  },
+  {
+    "id": "hi_14",
+    "text": "Company ne finally promotion letter issue kar diya senior tech lead role ke liye. CTC bhi 35 percent badh gaya hai. Mummy papa bohot proud hain aur sab rishtedaaron ko bata rahe hain. Main khush to hoon par andar se ek strange nervousness hai. Nayi team mein expectations bohot zyada hongi aur agar deliver nahi kar paya to sara credit ek minute mein chala jayega.",
+    "language": "hinglish",
+    "mood": "stressed",
+    "topics": ["work_study", "goals"]
+  },
+  {
+    "id": "hi_15",
+    "text": "Rohan se aaj coffee shop mein milke purani saari misunderstandings clear kar li. Dono ne agree kiya ki relationship aage work nahi karega. Dil bohot bhari hai kyunki char saal sath the, par ek dusre pe blame lagane se better tha ki gracefully alag ho jayein. Rona to aaya par andar se ek stability bhi feel ho rahi hai ki jhooth mein nahi jee rahe ab.",
+    "language": "hinglish",
+    "mood": "sad",
+    "topics": ["relationships"]
+  },
+  {
+    "id": "hi_16",
+    "text": "Pados wale uncle ne phir se hamare parking slot mein apni car ghusa di jabki unhe teen baar polite request kar chuke hain. Jab unse baat karne gaya to bolte hain 'thoda adjust kar lo beta'. Adjust kya kar lo jab daily subah meri gaadi nikalne mein 20 minute lag jate hain! Inka entitlement dekh ke khoon khaulta hai.",
+    "language": "hinglish",
+    "mood": "angry",
+    "topics": ["other"]
+  },
+  {
+    "id": "hi_17",
+    "text": "Aaj metro train mein notice kiya ki platform se lekar coach tak har ek insaan headphone laga kar reels dekh raha tha. Kisine kisi se eye contact nahi banaya pure 40 minute ke safar mein. Gussa nahi par ajeeb lagta hai dekh kar ki society kitni digitally absorbed ho chuki hai.",
+    "language": "hinglish",
+    "mood": "neutral",
+    "topics": ["other"]
+  },
+  {
+    "id": "hi_18",
+    "text": "Baarish ke baad mitti ki jo sondhi khushbu aati hai na, uska koi comparison nahi hai. Sham ko balcony mein khada hoke gili sadak pe lights ka reflection dekh raha tha. Quiet aur refreshing mahol tha.",
+    "language": "hinglish",
+    "mood": "calm",
+    "topics": ["other", "leisure"]
+  },
+  {
+    "id": "hi_19",
+    "text": "Papa ke routine blood reports aaye the aur diabetes level bilkul control mein aaya hai doctor ne medicine ki dose bhi aadhi kar di. Mummy ne khushi mein kheer banayi aur sabne sath baith ke dinner kiya. Bohot time baad ghar mein itna relaxed aur happy mahol dekha.",
+    "language": "hinglish",
+    "mood": "happy",
+    "topics": ["family", "health"]
+  },
+  {
+    "id": "hi_20",
+    "text": "Office wale group trip ka plan bana rahe hain Goa ke liye aur estimated cost 25 hazar bola hai per head. Mera iss month ka bike repair aur insurance premium due hai. Mana karoon to FOMO hota hai aur jaoon to agle mahine udhari leni padegi. Bohot tension ho rahi hai kya bahana banaun.",
+    "language": "hinglish",
+    "mood": "stressed",
+    "topics": ["money", "leisure", "relationships"]
+  },
+  {
+    "id": "hi_21",
+    "text": "Aaj regular workday tha. Morning standup mein updates diye, do bug fixes cherry-pick kiye aur sprint backlog review kiya. Chai pee ke 6 baje laptop band kar diya.",
+    "language": "hinglish",
+    "mood": "neutral",
+    "topics": ["work_study"]
+  },
+  {
+    "id": "hi_22",
+    "text": "Dinner mein light khana khaya aur 15 minute walk ki society compound mein. Garam paani se face wash karke book padh raha hoon. Neend aane lagi hai ache se.",
+    "language": "hinglish",
+    "mood": "calm",
+    "topics": ["health", "leisure"]
+  },
+  {
+    "id": "hi_23",
+    "text": "Hamare purane school ke samne jo chai ki tapri hoti thi jahan 10 saal pehle dosto ke sath ghanto baithte the, wo shop aaj road widening mein demolish ho gayi. Vahan ab flyover ka pillar banega. Time ke sath sab badal jata hai.",
+    "language": "hinglish",
+    "mood": "sad",
+    "topics": ["other"]
+  },
+  {
+    "id": "hi_24",
+    "text": "Tech lead ke sath architecture discussion mein sharp argument ho gaya code review ko lekar. Waise wo mera purana dost hai par meeting mein usne thoda personally target kar diya sabke samne. Kaam to chalta rahega par equation awkward ho gayi.",
+    "language": "hinglish",
+    "mood": "stressed",
+    "topics": ["work_study", "relationships"]
+  },
+  {
+    "id": "hi_25",
+    "text": "Almirah saaf karte hue school time ke cricket slam book aur cassette tapes mil gaye. Kaise us zamane mein gaane record karne ke liye radio pe wait karna padta tha. Abhi Spotify pe sab kuch ek click pe hai par wo excitement gayab hai.",
+    "language": "hinglish",
+    "mood": "neutral",
+    "topics": ["leisure", "other"]
+  }
+]
+
