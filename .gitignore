@@ -39,3 +39,9 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# Local measurement files and build logs
+*.log
+tag_*.txt
+stt_timing.txt
+.tmp_*
