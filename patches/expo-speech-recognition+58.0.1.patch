@@ -1,0 +1,44 @@
+diff --git a/node_modules/expo-speech-recognition/android/src/main/java/expo/modules/speechrecognition/ExpoSpeechService.kt b/node_modules/expo-speech-recognition/android/src/main/java/expo/modules/speechrecognition/ExpoSpeechService.kt
+index 4a0604a..60f786d 100644
+--- a/node_modules/expo-speech-recognition/android/src/main/java/expo/modules/speechrecognition/ExpoSpeechService.kt
++++ b/node_modules/expo-speech-recognition/android/src/main/java/expo/modules/speechrecognition/ExpoSpeechService.kt
+@@ -382,7 +382,8 @@ class ExpoSpeechService(
+             // Optional list of strings, towards which the recognizer should bias the recognition results.
+             // These are separate from the device context.
+             val strings = ArrayList(contextualStrings)
+-            log("biasing strings: ${strings.joinToString(", ")}")
++            // Murmur patch: never log user-provided strings.
++            log("biasing strings count: ${strings.size}")
+             intent.putExtra(
+                 RecognizerIntent.EXTRA_BIASING_STRINGS,
+                 // List<String> -> ArrayList<java.lang.String>
+@@ -633,7 +634,8 @@ class ExpoSpeechService(
+                 ),
+             )
+         }
+-        log("onResults(), results: $resultsList")
++        // Murmur patch: never log transcript text.
++        log("onResults(), count: ${resultsList.size}")
+ 
+         teardownAndEnd()
+     }
+@@ -643,7 +645,8 @@ class ExpoSpeechService(
+         // Avoid sending result event if there was an empty result, or the first result is an empty string
+         val nonEmptyStrings = partialResultsList.filter { it["transcript"]?.toString()?.isNotEmpty() ?: false }
+ 
+-        log("onPartialResults(), results: $nonEmptyStrings")
++        // Murmur patch: never log transcript text.
++        log("onPartialResults(), count: ${nonEmptyStrings.size}")
+         if (nonEmptyStrings.isNotEmpty()) {
+             sendEvent("result", mapOf("results" to nonEmptyStrings, "isFinal" to false))
+         }
+@@ -685,7 +688,8 @@ class ExpoSpeechService(
+                 ),
+             )
+         }
+-        log("onSegmentResults(), transcriptions: $resultsList")
++        // Murmur patch: never log transcript text.
++        log("onSegmentResults(), count: ${resultsList.size}")
+ 
+         // If the user opted to stop
+         if (recognitionState == RecognitionState.STOPPING) {
